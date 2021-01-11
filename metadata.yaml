@@ -1,0 +1,42 @@
+_repo: Tom-Newcombe-Or-the-Boy-of-Bad-Habits_64169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
+description: ''
+gutenberg_issued: '2020-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The go-ahead series
+subjects:
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Military education -- Juvenile fiction'
+- !lcsh 'Runaway teenagers -- Juvenile fiction'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'Child labor -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Newport (R.I.) -- Juvenile fiction'
+- !lcsh 'Punishment -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Orderliness -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Farmers -- Juvenile fiction'
+- GITenberg
+title: Tom Newcombe; Or, the Boy of Bad Habits
+url: http://www.gutenberg.org/ebooks/64169
