@@ -1,5 +1,8 @@
 _repo: Tom-Newcombe-Or-the-Boy-of-Bad-Habits_64169
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64169-h/images/cover.jpg
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2274
     wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64169#Tom-Newcombe-Or-the-Boy-of-Bad-Habits
 gutenberg_issued: '2020-12-29'
 gutenberg_type: Text
 identifiers:
